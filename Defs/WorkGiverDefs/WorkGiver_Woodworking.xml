@@ -1,5 +1,7 @@
 ﻿<WorkGivers>
 
+<!-- Woodworking -->	
+
     <WorkGiverDef>
         <defName>DoBillsWoodworking</defName>
         <giverClass>WorkGiver_DoBill</giverClass>
