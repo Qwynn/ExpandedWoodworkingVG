@@ -411,6 +411,12 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>(3,1)</drawSize>
         </graphicData>
+		<stuffCategories>
+			<li>Stony</li>
+			<li>Woody</li>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>70</costStuffCount>
         <CostList>
             <Steel>30</Steel>
         </CostList>

@@ -11,9 +11,6 @@
 		<effectWorking>CutStone</effectWorking>
 		<soundWorking>Recipe_MakeStoneBlocks</soundWorking>
 		<targetCountAdjustment>15</targetCountAdjustment>
-		<recipeUsers>
-			<li>TableWoodworking</li>
-		</recipeUsers>
 	</RecipeDef>
 
 <!-- Lumber -->		
@@ -41,6 +38,9 @@
 		<specialProducts>
 			<li>Butchery</li>
 		</specialProducts>
+		<recipeUsers>
+			<li>TableWoodworking</li>
+		</recipeUsers>		
 	</RecipeDef>
 
 	<RecipeDef ParentName="MakeWoodLumberBase">
@@ -66,6 +66,38 @@
 		<products>
 			<WoodLog>30</WoodLog>
 		</products>
+		<recipeUsers>
+			<li>TableWoodworking</li>
+		</recipeUsers>
 	</RecipeDef>
+	
+	<RecipeDef ParentName="MakeWoodLumberBase">
+		<defName>MakeWoodLumberMixedHand</defName>
+		<label>Make lumber by hand</label>
+		<description>Process any random or spare raw logs into lumber for construction by hand. It's a tedious job.</description>
+		<workAmount>500</workAmount>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>WoodTypes</li>
+					</categories>
+				</filter>
+				<count>15</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>WoodTypes</li>
+			</categories>
+		</fixedIngredientFilter>
+		<products>
+			<WoodLog>30</WoodLog>
+		</products>
+		<recipeUsers>
+			<li>CraftingSpot</li>
+		</recipeUsers>
+	</RecipeDef>	
 
 </RecipeDefs>

@@ -26,7 +26,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>oak wood</stuffAdjective>	
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>oak</stuffAdjective>	
 			<commonality>1.00</commonality>
 			<color>(181,137,88)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -90,7 +93,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-		<stuffAdjective>poplar wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>poplar</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(207,174,129)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -154,7 +160,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-		<stuffAdjective>pine wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>pine</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(241,190,133)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -218,7 +227,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>birch wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>birch</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(251,217,172)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -282,7 +294,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>cecropia wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>cecropia</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(123,47,24)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -346,7 +361,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>teak wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>teak</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(120,86,51)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -386,6 +404,8 @@
 		</butcherProducts>		
 	</ThingDef>
   
+ <!-- Vegetable Garden Trees --> 
+  
 	<ThingDef ParentName="ResourceVerbBase">
 		<defName>WoodLog_WeepingWillow</defName>
 		<label>willow logs</label>
@@ -410,7 +430,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>willow wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>willow</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(239,194,113)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -474,7 +497,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>japanese maple wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>japanese maple</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(245,214,168)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -538,7 +564,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>japanese cherry wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>japanese cherry</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(198,127,49)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -602,7 +631,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>camellia wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>camellia</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(240,209,155)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -666,7 +698,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>acacia wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>acacia</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(81,56,49)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -730,6 +765,9 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
 			<stuffAdjective>black palm</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(42,40,41)</color>
@@ -794,7 +832,10 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
-			<stuffAdjective>red maple wood</stuffAdjective>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
+			<stuffAdjective>red maple</stuffAdjective>
 			<commonality>1.00</commonality>
 			<color>(177,136,90)</color>
 			<constructEffect>ConstructWood</constructEffect>
@@ -856,6 +897,9 @@
 			<BluntDamageMultiplier>0.8</BluntDamageMultiplier>
 		</statBases>
 		<stuffProps>
+			<categories>
+				<li>RawWoody</li>
+			</categories>
 			<stuffAdjective>ironwood</stuffAdjective>
 			<commonality>0.75</commonality>
 			<color>(100,100,100)</color>
