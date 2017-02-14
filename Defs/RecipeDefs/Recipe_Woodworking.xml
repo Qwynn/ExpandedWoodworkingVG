@@ -72,6 +72,34 @@
 	</RecipeDef>
 	
 	<RecipeDef ParentName="MakeWoodLumberBase">
+		<defName>MakeWoodLumberMixed</defName>
+		<label>Bundle lumber together</label>
+		<description>Bundle together random or spare pieces of lumber.</description>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>WoodLumber</li>
+					</categories>
+				</filter>
+				<count>15</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>WoodLumber</li>
+			</categories>
+		</fixedIngredientFilter>
+		<products>
+			<WoodLog>30</WoodLog>
+		</products>
+		<recipeUsers>
+			<li>TableWoodworking</li>
+		</recipeUsers>
+	</RecipeDef>	
+	
+	<RecipeDef ParentName="MakeWoodLumberBase">
 		<defName>MakeWoodLumberMixedHand</defName>
 		<label>Make lumber by hand</label>
 		<description>Process any random or spare raw logs into lumber for construction by hand. It's a tedious job.</description>
