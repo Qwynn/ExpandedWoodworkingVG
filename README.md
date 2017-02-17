@@ -1,7 +1,7 @@
 [![RimWorld Alpha 16](https://img.shields.io/badge/RimWorld-Alpha 16-brightgreen.svg)](http://rimworldgame.com/)
 
 # Expanded Woodworking for Vegetable Garden
-Expanded Woodworking is an updated fork of ItchyFlea's Extended Woodworking.
+Expanded Woodworking for Vegetable Garden is a compatibility patch which extends Expanded Woodworking's functionality to Vegetable Garden.
 
 ## Installation
 Drop the latest release into your `RimWorld/Mods` folder.
@@ -19,7 +19,7 @@ Drop the latest release into your `RimWorld/Mods` folder.
 - Realistic wood colours!
 
 ## Compatibility
-Expanded Woodworking overwrites the following vanilla and Vegetable Garden definitions and will conflict with any other mods which also edits these:
+Expanded Woodworking for Vegetable Garden overwrites the following vanilla and Vegetable Garden definitions and will conflict with any other mods which also edits these:
 
 - Trees
 - Wood
