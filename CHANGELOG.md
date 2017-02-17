@@ -8,6 +8,7 @@
 
 ### Changed
 - Substantial code cleanup.
+- Expanded Woodworking for Vegetable garden is now dependent on Expanded Woodworking.
 
 ## [0.16.0.3] - 2017-02-13
 ### Added
