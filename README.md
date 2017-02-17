@@ -24,20 +24,25 @@ Expanded Woodworking overwrites the following vanilla and Vegetable Garden defin
 - Wood
 - Oven
 - Fueled stove
-- Fueled prep table
+- Fueled food prep table
 - Fueled sweets table
 - Fueled smithy
 - Torch lamp
 - Campfire
 - Passive cooler
+- Deadfall trap
+- Horseshoe pin
+- Shiv
+- Club
+- Spear
+- Pila
+- Short bow
+- Great bow
 
 ## Found a Bug?
 Make sure you have developer mode enabled in Rimworld before creating a bug report, then create a bug report [here](https://github.com/Qwynn/ExpandedWoodworkingVG/issues). Please provide your exported HugsLib log.
 
 ## Older Versions
 All current and past versions of this mod can be downloaded from [GitHub](https://github.com/Qwynn/ExpandedWoodworkingVG/releases).
-
-## Version Number
-0.16.0.2
 
 ## [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
