@@ -5,6 +5,7 @@
 ## [0.16.0.4] - 2017-02-17
 ### Added
 - Fruit trees now drop wood!
+- Wood and lumber statistics have been rebalanced to make woodtypes unique.
 
 ### Changed
 - Substantial code cleanup.
