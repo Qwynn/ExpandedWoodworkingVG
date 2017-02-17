@@ -1,6 +1,13 @@
 # Change Log
 
-**Current:** [v0.16.0.3](https://github.com/Qwynn/ExpandedWoodworkingVG/releases/tag/v0.16.0.3)
+**Current:** [v0.16.0.4](https://github.com/Qwynn/ExpandedWoodworkingVG/releases/tag/v0.16.0.4)
+
+## [0.16.0.4] - 2017-02-17
+### Added
+- Fruit trees now drop wood!
+
+### Changed
+- Substantial code cleanup.
 
 ## [0.16.0.3] - 2017-02-13
 ### Added
