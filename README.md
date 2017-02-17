@@ -7,6 +7,7 @@ Expanded Woodworking is an updated fork of ItchyFlea's Extended Woodworking.
 Drop the latest release into your `RimWorld/Mods` folder.
 
 ## Require Files
+- [Expanded Woodworking](https://github.com/Qwynn/ExpandedWoodworking/releases)
 - [Vegetable Garden](https://ludeon.com/forums/index.php?topic=12934.0)
 
 ## Features
