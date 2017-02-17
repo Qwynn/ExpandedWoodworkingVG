@@ -46,18 +46,28 @@
 				<fuelCapacity>75.0</fuelCapacity>
 				<fuelFilter>
 					<thingDefs>
-						<li>WoodLog_Oak</li>
-						<li>WoodLog_Poplar</li>
-						<li>WoodLog_Pine</li>
 						<li>WoodLog_Birch</li>
 						<li>WoodLog_Cecropia</li>
+						<li>WoodLog_Oak</li>
+						<li>WoodLog_Pine</li>
+						<li>WoodLog_Poplar</li>
 						<li>WoodLog_Teak</li>
-						<li>WoodLog_WeepingWillow</li>
-						<li>WoodLog_JapaneseMaple</li>
-						<li>WoodLog_CherryBlossom</li>
-						<li>WoodLog_Camellia</li>
 						<li>WoodLog_Acacia</li>
 						<li>WoodLog_Palm</li>
+						<li>WoodLog_Camellia</li>
+						<li>VG_IronWoodLog</li>
+						<li>WoodLog_CherryBlossom</li>
+						<li>WoodLog_JapaneseMaple</li>
+						<li>WoodLog_RedMaple</li>
+						<li>WoodLog_WeepingWillow</li>
+						<li>WoodLog_Apple</li>
+						<li>WoodLog_Cherry</li>
+						<li>WoodLog_DatePalm</li>
+						<li>WoodLog_Fig</li>
+						<li>WoodLog_Olive</li>
+						<li>WoodLog_Orange</li>
+						<li>WoodLog_Peach</li>
+						<li>WoodLog_Coconut</li>
 					</thingDefs>
 				</fuelFilter>
 			</li>
