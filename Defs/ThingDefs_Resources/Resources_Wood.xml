@@ -31,6 +31,36 @@
 		</butcherProducts>		
 	</ThingDef>  
   
+ 	 <ThingDef ParentName="WoodLogBase">
+		<defName>Bamboo</defName>
+		<label>raw bamboo</label>
+		<description>Raw bamboo. When processed it becomes useful for building structures, weapons, and even simple prosthetics. Bamboo is a perishable, fast growing grass.</description>
+		<graphicData>
+			<texPath>Things/Veg/bamboo</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<Mass>0.55</Mass>
+			<MarketValue>1.4</MarketValue>
+			<DeteriorationRate>10</DeteriorationRate>
+		</statBases>
+		<stuffProps>
+			<stuffAdjective>bamboo</stuffAdjective>
+			<commonality>0.75</commonality>
+			<color>(248,218,158)</color>
+			<statFactors>
+				<MaxHitPoints>0.2</MaxHitPoints>
+				<Beauty>1.3</Beauty>
+				<WorkToMake>0.65</WorkToMake>
+				<WorkToBuild>0.65</WorkToBuild>
+				<DoorOpenSpeed>1.3</DoorOpenSpeed>
+			</statFactors>
+		</stuffProps>
+		<butcherProducts>
+			<LumberBamboo>30</LumberBamboo>
+		</butcherProducts>		
+	</ThingDef> 
+  
 	<ThingDef ParentName="WoodLogBase">
 		<defName>WoodLog_Palm</defName>
 		<label>black palm logs</label>
@@ -358,7 +388,7 @@
 		<label>olivewood logs</label>
 		<description>Raw wood from an olive tree. When processed it becomes useful for building structures, weapons, and even simple prosthetics. Olivewood is a durable to moderately durable hardwood.</description>
 		<graphicData>
-			<color>(173,119,47)</color>
+			<color>(171,131,95)</color>
 		</graphicData>
 		<statBases>
 			<Mass>0.8</Mass>
@@ -368,7 +398,7 @@
 		<stuffProps>
 			<stuffAdjective>olivewood</stuffAdjective>
 			<commonality>0.45</commonality>
-			<color>(173,119,47)</color>
+			<color>(171,131,95)</color>
 			<statFactors>
 				<MaxHitPoints>0.6</MaxHitPoints>
 				<Beauty>1.10</Beauty>
