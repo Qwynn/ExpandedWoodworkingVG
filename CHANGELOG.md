@@ -5,6 +5,11 @@
 ## [0.16.0.5] - 2017-02-20
 ### New
 - Minor code change in compliance with latest version of Expanded Woodworking.
+- Bamboo lumber has been added.
+- Bamboo's stats have been balanced alongside other wood types.
+
+### Fixed
+- Olivewood's colouring is now more realistic.
 
 ## [0.16.0.4] - 2017-02-17
 ### New
