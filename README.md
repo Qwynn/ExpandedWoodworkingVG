@@ -28,8 +28,7 @@ Expanded Woodworking for Vegetable Garden overwrites the following Vegetable Gar
 
 
 ## Found a Bug?
-Make sure you have developer mode enabled in Rimworld before creating a bug report, then create a bug report [here](https://github.com/Qwynn/ExpandedWoodworkingVG/issues). Please provide your exported HugsLib log.
-
+When making a bug report, please make sure you have developer mode enabled in your Rimworld settings. You may then create your report [here](https://github.com/Qwynn/ExpandedWoodworkingVG/issues). A link to your exported HugsLib log would be greatly appreciated as well.
 
 ## Older Versions
 All current and past versions can be downloaded from [GitHub](https://github.com/Qwynn/ExpandedWoodworkingVG/releases).
